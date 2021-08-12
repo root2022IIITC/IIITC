@@ -1,10 +1,10 @@
 # Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization
 Official project page for paper, Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization.
 
-we show an example videos to compare our work with other methods.
+we show an example video to compare our work with other methods.
  ![result demo](./docs/result_demo.gif)
 
-The video can be obtained [here](https://www.youtube.com/watch?v=RiOOc_clpjE) .
+The example video can be obtained [here](https://www.youtube.com/watch?v=a5vZuPchmqw) .
 
 ## Dataset
  ![dataset demo](./docs/dataset_demo.gif)
@@ -50,7 +50,7 @@ You need to modify the save path of the model, which is in the “./model” fol
 ```python train_model.py```
 
 ### Testing
-Before testing, you can train the model yourself or use the model parameters we have trained. [our dataset](https://drive.google.com/drive/folders/1Zt0TvY7f4opXXxzyHsph0sPV9ufH0qkZ?usp=sharing)
+Before testing, you can train the model yourself or use the model parameters we have trained. [our model](https://drive.google.com/drive/folders/1Zt0TvY7f4opXXxzyHsph0sPV9ufH0qkZ?usp=sharing)
 
 ```python test_model.py```
 
