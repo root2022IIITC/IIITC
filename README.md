@@ -1,5 +1,5 @@
-# IIITCNET: Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization
-Official project page for paper, IIITCNET: Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization.
+# Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization
+Official project page for paper, Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization.
 
 we show an example videos to compare our work with other methods.
  ![result demo](./docs/result_demo.gif)
@@ -11,7 +11,7 @@ The video can be obtained [here](https://www.youtube.com/watch?v=RiOOc_clpjE) .
 
 You can download our video stabilization dataset from [Google Drive](https://drive.google.com/drive/folders/1PKH6rn8U_I0EZbJdmjzStuMX1Ica4pWS?usp=sharing) 
 
-We provide a real-world video dataset of the pre-print paper 'IIITCNET: Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization'.
+We provide a real-world video dataset of the pre-print paper 'Intra- and Inter-frame Iterative Temporal Convolutional Networks for Video Stabilization'.
 
 There are 140 pairs of synchronized videos in this dataset. Each pair of videos includes a jitter video and a stabilized video after hardware stabilization. The length of each video is about 15-30 seconds and frames per second is 30. The resolution is 1920x1080.
 
