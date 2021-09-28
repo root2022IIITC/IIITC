@@ -50,7 +50,7 @@ You need to modify the save path of the model, which is in the “./model” fol
 ```python train_model.py```
 
 ### Testing
-Before testing, you can train the model yourself or use the model parameters we have trained. [our model](https://drive.google.com/drive/folders/1Zt0TvY7f4opXXxzyHsph0sPV9ufH0qkZ?usp=sharing)
+Before testing, you can train the model yourself or use [the model parameters](https://drive.google.com/drive/folders/1Zt0TvY7f4opXXxzyHsph0sPV9ufH0qkZ?usp=sharing) we have trained. 
 
 ```python test_model.py```
 
